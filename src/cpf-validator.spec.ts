@@ -11,4 +11,9 @@ describe('Cpf Validator', () => {
         const sut = makeSut()
         expect(sut.validate('123.456.789')).toBe(false)
     })
+
+    test('should return false if an empty cpf is provided', () => {
+        const sut = makeSut()
+        expect(sut.validate('')).toBe(false)
+    })
 })
