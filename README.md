@@ -2,7 +2,7 @@
 
 ## Installation
 ---
-```npm i clean-cpf-validator``
+```npm i clean-cpf-validator```
 
 <br/>
 
