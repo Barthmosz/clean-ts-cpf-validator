@@ -1,5 +1,5 @@
 {
-  "name": "clean-cpf-lib",
+  "name": "clean-cpf-validator",
   "version": "0.0.0",
   "description": "A simple and clean cpf validator.",
   "keywords": [
