@@ -1,5 +1,5 @@
 import { CpfValidator } from './cpf-validator'
-import { type Validator } from './cpf-protocol'
+import { type Validator } from './cpf-validator-protocol'
 
 const makeSut = (): Validator => {
     const sut = CpfValidator
